@@ -1,0 +1,15 @@
+The dataset contains information about different courses available on Coursera. Here is a description of the columns:
+
+- Course Title: The title of the course.
+- Rating: The average rating of the course based on user reviews.
+- Level: The difficulty level of the course (e.g., Beginner, Intermediate).
+- Duration: The approximate duration required to complete the course.
+- Schedule: The flexibility of the course schedule (e.g., Flexible schedule).
+- Review: The number of user reviews for the course.
+- What you will learn: A list of topics or skills covered in the course.
+- Skill gain: The expected skill gain or outcomes from taking the course.
+- Modules: The modules or sections in which the course is divided.
+- Instructor: The name of the instructor(s) teaching the course.
+- Offered By: The organization or institution offering the course.
+- Keyword: A keyword or category associated with the course.
+- Course Url: The URL of the course on Coursera.
